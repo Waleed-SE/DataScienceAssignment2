@@ -1,0 +1,16 @@
+subba,parent,parent-name,value,value-units,datetime,temperature_2m,hour,day,month,year,weekday,is_weekend,season_Winter,season_Spring,season_Summer,season_Fall,subba_Capital,subba_Capital - NYIS,subba_Central,subba_Central - NYIS,subba_Dunwoodie,subba_Dunwoodie - NYIS,subba_Genesee,subba_Genesee - NYIS,subba_Hudson Valley,subba_Hudson Valley - NYIS,subba_Long Island,subba_Long Island - NYIS,subba_Millwood,subba_Millwood - NYIS,subba_Mohawk Valley,subba_Mohawk Valley - NYIS,subba_New York City,subba_New York City - NYIS,subba_North,subba_North - NYIS,subba_West,subba_West - NYIS
+ZONA,NYIS,New York Independent System Operator,1703,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ZONB,NYIS,New York Independent System Operator,1152,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZONC,NYIS,New York Independent System Operator,1821,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZOND,NYIS,New York Independent System Operator,711,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ZONE,NYIS,New York Independent System Operator,918,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ZONF,NYIS,New York Independent System Operator,1421,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZONG,NYIS,New York Independent System Operator,1129,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ZONH,NYIS,New York Independent System Operator,321,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ZONI,NYIS,New York Independent System Operator,647,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZONJ,NYIS,New York Independent System Operator,5180,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ZONK,NYIS,New York Independent System Operator,2357,megawatthours,2022-01-02 00:00:00+00:00,9.2085,0,2,1,2022,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ZONA,NYIS,New York Independent System Operator,1713,megawatthours,2022-01-01 23:00:00+00:00,8.4585,23,1,1,2022,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ZONB,NYIS,New York Independent System Operator,1167,megawatthours,2022-01-01 23:00:00+00:00,8.4585,23,1,1,2022,5,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZONC,NYIS,New York Independent System Operator,1832,megawatthours,2022-01-01 23:00:00+00:00,8.4585,23,1,1,2022,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZOND,NYIS,New York Independent System Operator,719,megawatthours,2022-01-01 23:00:00+00:00,8.4585,23,1,1,2022,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
